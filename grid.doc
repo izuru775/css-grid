@@ -1,0 +1,18 @@
+Grid Container Properties
+
+grid-template columns
+grid-template-rows
+grid-gap
+grid-auto-rows
+grid-auto-columns
+grid-template-areas
+justify-content
+align-items
+
+Grid Item Properties
+
+grid-columns
+grid-rows
+grid-areas
+align-self
+justify-self
